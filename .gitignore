@@ -1,0 +1,11 @@
+.project
+.pydevproject
+*.pyc
+
+
+.settings/
+uml/
+
+src/.dynamic_media/
+
+
